@@ -1,0 +1,8 @@
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\bin\Debug\14.111.0884 Edward Utoyo.exe.config
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\bin\Debug\14.111.0884 Edward Utoyo.exe
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\bin\Debug\14.111.0884 Edward Utoyo.pdb
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\obj\Debug\14.111.0884 Edward Utoyo.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\obj\Debug\_14._111._0884_Edward_Utoyo.Properties.Resources.resources
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\obj\Debug\14.111.0884 Edward Utoyo.csproj.GenerateResource.Cache
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\obj\Debug\14.111.0884 Edward Utoyo.exe
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Latihan 1\14.111.0884 Edward Utoyo\obj\Debug\14.111.0884 Edward Utoyo.pdb

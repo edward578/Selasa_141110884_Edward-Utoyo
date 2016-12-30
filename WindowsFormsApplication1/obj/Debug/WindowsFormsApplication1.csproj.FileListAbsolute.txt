@@ -1,0 +1,4 @@
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Selasa_141110884_Edward-Utoyo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Selasa_141110884_Edward-Utoyo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Selasa_141110884_Edward-Utoyo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Materi Kuliah\Semester 5\Framework Lanjutan\Selasa_141110884_Edward-Utoyo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
